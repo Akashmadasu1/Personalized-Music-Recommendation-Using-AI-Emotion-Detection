@@ -1,3 +1,3 @@
 # Personalized-Music-Recommendation-Using-AI-Emotion-Detection
 
-i will Update the Repository Soon...
+I will update the Repository soon..
